@@ -1,3 +1,9 @@
+## Purpose
+This web is come from a client request. We provide free build and support. Want to open. 
+
+Also it is a good chance for us to de a test.
+
+
 ## About
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
